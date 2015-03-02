@@ -1,0 +1,2 @@
+I have used git before, but I didn't really know much about the fetch or merge keywords, so that's definitely something new I learned.
+Feedback for the lesson: Since I wasn't able to make class last week, it would've helped a little to know what exactly was changed for mars and pluto. I also got a little confused on how to edit files that are in conflict. Do you just need to go back to the file, see what changes you want, and then re-add and commit?
